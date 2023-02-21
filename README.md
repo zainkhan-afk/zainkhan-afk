@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 # My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zainkhan-afk&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Star Stats]](https://github-readme-stats.vercel.app/api?username=zainkhan-afk&show_icons=true&locale=en)
+[![Star Stats](https://github-readme-stats.vercel.app/api?username=zainkhan-afk&show_icons=true&locale=en&theme=dark&background=000000)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan-afk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan-afk&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
