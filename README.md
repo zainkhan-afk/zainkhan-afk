@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zainkhan-afk
+- 👋 Hi, I’m Zain Khan, I am an AI Developer.
 - 👀 I’m interested in Deep Learning and Robotics.
 - 🌱 I’m currently learning Robotics Simulation.
 
