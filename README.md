@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zain Khan, I am an AI Developer.
-- 👀 I’m interested in Deep Learning and Robotics.
+- 👀 I’m interested in Deep Learning, NLP, Accurate Physics Simulation, Legged Robots and Control Systems.
 - 🌱 I’m currently learning Robotics Simulation and MLOps.
 
 <!---
