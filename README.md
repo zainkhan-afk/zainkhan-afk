@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zain Khan, I am an AI Developer.
 - 👀 I’m interested in Deep Learning and Robotics.
-- 🌱 I’m currently learning Robotics Simulation.
+- 🌱 I’m currently learning Robotics Simulation and MLOps.
 
 <!---
 zainkhan-afk/zainkhan-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
