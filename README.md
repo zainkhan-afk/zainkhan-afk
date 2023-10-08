@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linuxcontainers.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_Containers_logo.svg/1200px-Linux_Containers_logo.svg.png" alt="LXC" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>
 <a href="https://www.linode.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/linode-1-logo-png-transparent.png" alt="Linode" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:Microsoft-DirectX-11-Logo-wordmark.svg" alt="DirectX11" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg" alt="DirectX11" width="40" height="40"/> </a>
 
 # My Stats
 
