@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhan-afk&theme=dark&background=000000"/></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=zainkhan-afk&theme=dark"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainkhan-afk&show_icons=true&locale=en&theme=dark&background=000000" /></p>
 
