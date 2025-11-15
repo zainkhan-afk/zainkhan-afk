@@ -45,6 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=callmeumer&color=brightgreen&style=flat-square)
+
 </div>
 
