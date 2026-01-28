@@ -43,3 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan-afk&theme=dark&background=000000"/></p>
 
+<p>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zainkhan-afk&theme=dracula&bg_color=2b1557&hide_border=true&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph%20%F0%9F%92%9C&title_color=ede6fa#gh-dark-mode-only"/>
+</p>
