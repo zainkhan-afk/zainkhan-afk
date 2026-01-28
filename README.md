@@ -37,12 +37,12 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=zainkhan-afk&theme=dark"/></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainkhan-afk&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainkhan-afk&show_icons=true&locale=en&theme=dark&background=000000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainkhan-afk&show_icons=true&locale=en&theme=dracula&background=2b1557" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan-afk&theme=dark&background=000000"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan-afk&theme=dracula&background=2b1557"/></p>
 
-<p>
+<p align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zainkhan-afk&theme=dracula&bg_color=2b1557&hide_border=true&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph%20%F0%9F%92%9C&title_color=ede6fa#gh-dark-mode-only"/>
 </p>
