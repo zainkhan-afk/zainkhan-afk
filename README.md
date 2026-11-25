@@ -10,9 +10,13 @@ I like to work on fun physics simulations, creative coding and a few other exper
 
 # My Stats
 
-<p align="center"><img align="center" src="https://readme-stats-github.pages.dev/api?username=zainkhan-afk&theme=dark"/></p>
+<p align="center">
+  <img align="center" src="https://readme-stats-github.pages.dev/api?username=zainkhan-afk&theme=dark"/>
+</p>
 
-<p align="center"><img align="center" src="https://readme-stats-github.pages.dev/api/top-langs?username=zainkhan-afk&theme=dark"/></p>
+<p align="center">
+  <img align="center" src="https://readme-stats-github.pages.dev/api/top-langs?username=zainkhan-afk&theme=dark"/>
+</p>
 
 <p align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zainkhan-afk&theme=dracula&bg_color=2b1557&hide_border=true&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph%20&title_color=ede6fa#gh-dark-mode-only"/>
